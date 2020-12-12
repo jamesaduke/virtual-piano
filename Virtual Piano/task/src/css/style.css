@@ -1,0 +1,24 @@
+body{
+    background-color: navy;
+}
+kbd{
+    background-color: white;
+    margin-left: 0;
+}
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+    width: 333px;
+    height: 267px;
+}
+kbd{
+    background-color: white;
+    margin-left: 0;
+    float: left;
+    width: 40px;
+    height: 130px;
+    border: solid grey;
+}
